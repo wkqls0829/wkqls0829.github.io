@@ -143,6 +143,12 @@ ul.entries .when {
   margin-top: 2px;
 }
 
+ul.bullets {
+  padding-left: 1.4em;
+  margin: 0;
+}
+ul.bullets li { margin: 0 0 4px; }
+
 footer {
   margin-top: 64px;
   padding-top: 16px;
